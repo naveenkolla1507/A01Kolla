@@ -1,0 +1,66 @@
+body
+{
+	background-color: #f7e6ff;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.background
+{
+	color: #AA3535;
+}
+
+
+#main_text
+{
+text-align: left;
+}
+
+#heading
+{
+	color: blue;
+	text-align: center;
+
+}
+
+.body_text
+{
+	font-style: italic;
+}
+
+table, th, td
+{
+	border: 1px solid red;
+	text-align: center;
+}
+
+.sub_head
+{
+ font-family: "Palatino Linotype", Palatino, serif;
+
+}
+
+.list_data
+{
+	color: #BE0FB4;
+}
+
+
+
+#list
+{
+font-weight: bold;
+}
+
+.data
+{
+
+}
+span p
+{
+	color: #cc66ff;
+}
+
+.interest_data
+{
+	color: #733108;
+}
